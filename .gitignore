@@ -6,3 +6,4 @@ data/
 *.parquet
 *.csv
 *.log
+test.py
